@@ -20,7 +20,7 @@ body {
 
     table.middle td, table.middle th {
       border: 1px solid black;
-      padding: 8px;
+      padding: 1px;
       text-align: center;
     }
 
